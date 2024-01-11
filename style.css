@@ -1,0 +1,141 @@
+.heading{
+    margin:80px;
+    text-align: center;
+    opacity: 0.8;
+    
+}
+body{
+    background-color: black;
+}
+.sub{
+    color:white;
+}
+.form{
+    padding-left: 0px;
+    align-items: center;
+    margin-left: 35%;
+    margin-top: 5%;
+    margin-right: 20%;
+    border-style: solid;
+    border:px;
+    border-radius: 10px;
+    color:rgb(255,0,0);
+    height:325px;
+    width:370px;
+    
+    
+}
+.heading1{
+    color:rgb(255,0,0);
+
+}
+
+.white{
+    font-size: 1em;
+    color:white;
+}
+.subm {
+    background-color: red;
+    color: white;
+    border: 2px solid; 
+    border-radius: 10px;
+    height: 30px;
+    width: 80px;
+    margin: 10px 0px 0px 140px;
+} 
+.tex{
+    color:white;
+    font-size: 1em;
+}
+
+.exponent{
+    background-color: aquamarine;
+    font-size: 2em;
+
+}
+#bod{
+    
+    
+    background-color: black;
+}
+.table{
+    margin:180px 0px 0px 300px;
+    border-color:red;
+    border-radius: 50px;
+
+}
+.heading{
+    font-size: 2em;
+    
+    background-color: #B6D0E2;
+}
+.formula{
+    background-color: #B6D0E2;
+    font-size: 2em;
+}
+
+.table-attendance{
+    margin:80px 0px 0px 300px;
+    border:5px solid white;
+    width:700px;
+    height:150px;
+}
+.web{
+    color:white;
+    font-size:2em
+}
+.heading-1{
+    color:white;
+}
+.organic{
+    color:white;
+    font-size:2em;
+  
+}
+.div-video{
+    margin:80px 0px 0px 100px
+}
+.locatio-div{
+    margin:50px;
+    color:white;
+    font-size:1.5em;
+}
+ul{
+    display: flex;
+
+}
+nav{
+    
+    width:1300px;
+    height:60px;
+    justify-content: space-between;
+}
+li{
+    list-style: none;
+    font-size: 3em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+li a{
+    color:red;
+    margin:20px 40px;
+    
+}
+a:hover{
+    background-color: white;
+}
+.cv{
+    background-color: white;
+    border:2px;
+    border-radius: 20px;
+    width:10
+}
+.cv-head{
+    text-align: center;
+    background-color:white;
+    color:red;
+}
+.c-head{
+    text-align: center;
+
+}
